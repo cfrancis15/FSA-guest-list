@@ -1,0 +1,16 @@
+.information{
+    font-size: xx-large;
+    justify-items: center;
+
+}
+
+button{
+    width: 70vw;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+h1{
+    justify-self: center;
+}
